@@ -1,26 +1,3 @@
----
-description: >-
-  Aquí recopilaré información y documentación relacionada con varias preguntas
-  destinadas a la evaluación sobre JavaScript, principalmente conceptos y
-  funciones importantes de este lenguaje.
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
----
-
 # M4C7 Full Stack Course
 
 ## ¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?
