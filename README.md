@@ -3,25 +3,10 @@ description: >-
   Aquí recopilaré información y documentación relacionada con varias preguntas
   destinadas a la evaluación sobre JavaScript, principalmente conceptos y
   funciones importantes de este lenguaje.
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+icon: eyes
 ---
 
-# ¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?
+# Checkpoint 7- FULL STACK
 
 ## 1. ¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?
 
@@ -36,5 +21,3 @@ En[ esta página](https://www.w3schools.com/js/js_versions.asp), encontrarás al
 Si bien es más conocido como el lenguaje de scripting para páginas web, muchos entornos fuera del navegador también lo usan, tal como [Node.js](https://developer.mozilla.org/es/docs/Glossary/Node.js), [Apache CouchDB](https://couchdb.apache.org/) y [Adobe Acrobat](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/). Algunas de las aplicaciones más potentes del mundo están desarrolladas en JavaScript, por lo que no hay manera de evitar trabajar con él de una forma u otra.
 
 Además, incluso para quienes no ejerzan como desarrolladores, JavaScript es una de las herramientas más potentes para automatizar el flujo de trabajo diario. Esto se debe a que como el código JavaScript se ejecuta directamente en el navegador, puedes realizar tareas como, por ejemplo, actualizar y seguir a varias personas en Instagram o LinkedIn. Puedes crear un script de JavaScript muy sencillo que se ejecute y automatice la tarea.
-
-JavaScript cuenta con lenguajes auxiliares o precompiladores como TypeScript, muy similares a JavaScript, pero que obligan a especificar los tipos de datos, que son la razón por la que TypeScript se llama así. Gran parte de esto es una cuestión de opinión personal.

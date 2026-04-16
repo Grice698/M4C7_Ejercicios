@@ -1,6 +1,6 @@
 # Table of contents
 
-* [¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?](README.md)
+* [Checkpoint 7- FULL STACK](README.md)
 * [2. ¿Cuáles son algunos tipos de datos JS?](2.-cuales-son-algunos-tipos-de-datos-js.md)
 * [3. ¿Cuáles son las tres funciones de String en JS?](3.-cuales-son-las-tres-funciones-de-string-en-js.md)
 * [4. ¿Qué es un condicional?](4.-que-es-un-condicional.md)
